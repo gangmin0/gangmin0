@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'practice.dart';
+import 'align.dart';
 
 void main() {
   runApp(const MyApp());
