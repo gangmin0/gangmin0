@@ -26,7 +26,7 @@ class _MyHomePageState extends State<MyHomePage> {
     _fetchData();
     _scrollController.addListener(() {
       if (_scrollController.position.extentAfter < 300 && !_isLoading $$ _hasMoredata) {
-        _fetchData(); 
+        _fetchData();
       }
     });
 
