@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class SuccessPage extends StatelessWidget {
+class form_success_page extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final Map<String, String> args =
